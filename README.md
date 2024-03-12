@@ -1,16 +1,7 @@
-# happy_haaland
+# Happy Haaland
 
-A new Flutter project.
+Erling Braut Haaland (né Håland; Urban East Norwegian: born 21 July 2000) is a Norwegian professional footballer who plays as a striker for Premier League club Manchester City and the Norway national team. Considered one of the best players in the world, he is known for his speed, strength, positioning, and finishing inside the box. In his debut Premier League season, Haaland broke the record for the most goals scored by a player in a single season, with 36.
 
-## Getting Started
+Can you make him Happy?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To download the Happy Haaland App [Click Me](https://drive.google.com/drive/folders/14Kt132D6ihhDlO7gD12D16DGp2qsIGqc?usp=sharing)
