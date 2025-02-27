@@ -5,3 +5,6 @@ Erling Braut Haaland (né Håland; Urban East Norwegian: born 21 July 2000) is a
 Can you make him Happy?
 
 To download the Happy Haaland App [Click Me](https://drive.google.com/drive/folders/14Kt132D6ihhDlO7gD12D16DGp2qsIGqc?usp=sharing)
+
+
+[See the answer](https://github.com/Kaushik2201/IE-CTF-Q2/blob/main/answer.md)
